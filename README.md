@@ -1,5 +1,4 @@
-# eh5iot-semester-project
-Semester project in EH5IOT (fall 2023): Power scheduler
+# Semester project in EH5IOT (fall 2023): Power scheduler
 
 
 ## Basic concept
@@ -21,4 +20,7 @@ It will be implemented through a Particle Argon, whose IoT capabilities will be 
 - The device must be able to use known power prices to find out how to keep another device powered as long and as often as needed at the lowest possible cost.
 
 ### Optional requirements
-- The device should be able to function with any target device.
+- The device should be able to function with any target device. Failing that, the device should be able to function with any target device within as wide a category as reasonably possible, such as any device that converts electrical energy to thermal energy.
+
+## Intended resources
+- **https://www.elprisenligenu.dk/elpris-api** claims to provide the currently known Danish power prices free of charge with no strings attached. This makes it a prime candidate for an API to get power prices from.
