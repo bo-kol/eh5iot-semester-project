@@ -26,5 +26,5 @@ It will be implemented through a Particle Argon, whose IoT capabilities will be 
 - **https://www.elprisenligenu.dk/elpris-api** claims to provide the currently known Danish power prices free of charge with no strings attached. This makes it a prime candidate for an API to get power prices from.
 
 ## Current goals
-- Get the Argon to acquire power price data.
+- (COMPLETE) Get the Argon to acquire power price data.
 - Get the Argon to sort power price data in ascending order based on price, then mark the hours with the lowest _n_ prices.
