@@ -22,9 +22,8 @@ It will be implemented through a Particle Argon, whose IoT capabilities will be 
 ### Optional requirements
 - The device should be able to function with any target device. Failing that, the device should be able to function with any target device within as wide a category as reasonably possible, such as any device that converts electrical energy to thermal energy.
 
-## Intended resources
-- **https://www.elprisenligenu.dk/elpris-api** claims to provide the currently known Danish power prices free of charge with no strings attached. This makes it a prime candidate for an API to get power prices from.
-
-## Current goals
-- (COMPLETE) Get the Argon to acquire power price data.
-- Get the Argon to sort power price data in ascending order based on price, then mark the hours with the lowest _n_ prices.
+## Web resources
+- **The API of choice** is provided by Energi Data Service at https://api.energidataservice.dk/dataset/Elspotprices?start=now-PT1H&limit=35&filter=%7b%22PriceArea%22:%22DK1%22%7d&sort=HourDK%20asc. It provides data about Danish electricity prices with no strings attached, and it does so in a manner that allows different data to be accessed with the same URL depending on when it is accessed (which is very important, because as far as everyone involved in this project is concerned, it is impossible to get a Particle program to vary any part of the URL that the webhook uses).
+- **The datasheet for the Particle Argon** can be accessed at https://docs.particle.io/reference/datasheets/wi-fi/argon-datasheet/.
+- **The datasheet for the LM35** can be accessed at https://www.ti.com/lit/ds/symlink/lm35.pdf.
+- **The program that this project uses is based on one from the Particle website.** It can be accessed at **NOTE TO SELF: ADD THE LINK LATER**
