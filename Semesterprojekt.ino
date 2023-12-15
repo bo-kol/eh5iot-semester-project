@@ -60,6 +60,8 @@ std::map<TIME, priceType> prices;
 #define WAIT_TIME 10000
 #endif
 
+#define PRINT_TIME Serial.println("The current time is " + String(Time.now()) + ". (" + String(Time.hour()) + ":" + String(Time.minute()) + ":" + String(Time.second()) + " on day " + String(Time.weekday()) + ")")
+
 //Til strtok:
 #define SEPARATOR ","
 //Til zone()
@@ -205,6 +207,7 @@ void handleData(const char *event, const char *data) { //NY VERSION, HVOR JEG PR
 
 void loop()
 {
+  PRINT_TIME;
   #ifndef OFFLINE_TEST_MODE
   ready = false;
   TIME now;
@@ -217,7 +220,6 @@ void loop()
     Particle.publish("power-prices", NULL);
   
     now.setToNow();
-    Serial.println("The current time is " + String(Time.now()) + ". (" + String(Time.hour()) + " hours on day " + String(Time.weekday()) + ")");
 
     while (!ready) {
       delay(POLL_RETRY_TIME); //Poll'er ready
