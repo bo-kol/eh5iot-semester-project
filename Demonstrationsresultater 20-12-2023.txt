@@ -1,0 +1,264 @@
+THE PROGRAM WILL NOW RUN NORMALLY
+waiting 10 seconds before we publish
+waiting 9 seconds before we publish
+waiting 8 seconds before we publish
+waiting 7 seconds before we publish
+waiting 6 seconds before we publish
+waiting 5 seconds before we publish
+waiting 4 seconds before we publish
+waiting 3 seconds before we publish
+waiting 2 seconds before we publish
+waiting 1 seconds before we publish
+The current time is 1703074240. (13:10:40 on day 4)
+Raw temperature value: 223
+Temperature in °C: 17.983871
+Current process value: 17.983871
+Requesting power prices...
+Event name: hook-response/power-prices/0
+Event data: 451.790009,498.100006,509.359985,531.059998,579.75,558.869995,511,495.040009,489.450012,457.980011,364.480011,331.290009,277.149994,155.839996,67.699997,0.52,2.46,177.830002,336.429993,365.059998,277.670013,255.679993,194.240005,175.300003,86.199997,78.519997,125.269997,126.389999,261.570007,293.329987,361.559998,305.48999,247.179993,214.520004,101.260002
+Price 0 for the time 4-13 has been assigned the value 451.790009.
+Price 1 for the time 4-14 has been assigned the value 498.100006.
+Price 2 for the time 4-15 has been assigned the value 509.359985.
+Price 3 for the time 4-16 has been assigned the value 531.059998.
+Price 4 for the time 4-17 has been assigned the value 579.750000.
+Price 5 for the time 4-18 has been assigned the value 558.869995.
+Price 6 for the time 4-19 has been assigned the value 511.000000.
+Price 7 for the time 4-20 has been assigned the value 495.040009.
+Price 8 for the time 4-21 has been assigned the value 489.450012.
+Price 9 for the time 4-22 has been assigned the value 457.980011.
+Price 10 for the time 4-23 has been assigned the value 364.480011.
+Price 11 for the time 5-0 has been assigned the value 331.290009.
+Price 12 for the time 5-1 has been assigned the value 277.149994.
+Price 13 for the time 5-2 has been assigned the value 155.839996.
+Price 14 for the time 5-3 has been assigned the value 67.699997.
+Price 15 for the time 5-4 has been assigned the value 0.520000.
+Price 16 for the time 5-5 has been assigned the value 2.460000.
+Price 17 for the time 5-6 has been assigned the value 177.830002.
+Price 18 for the time 5-7 has been assigned the value 336.429993.
+Price 19 for the time 5-8 has been assigned the value 365.059998.
+Price 20 for the time 5-9 has been assigned the value 277.670013.
+Price 21 for the time 5-10 has been assigned the value 255.679993.
+Price 22 for the time 5-11 has been assigned the value 194.240005.
+Price 23 for the time 5-12 has been assigned the value 175.300003.
+Price 24 for the time 5-13 has been assigned the value 86.199997.
+Price 25 for the time 5-14 has been assigned the value 78.519997.
+Price 26 for the time 5-15 has been assigned the value 125.269997.
+Price 27 for the time 5-16 has been assigned the value 126.389999.
+Price 28 for the time 5-17 has been assigned the value 261.570007.
+Price 29 for the time 5-18 has been assigned the value 293.329987.
+Price 30 for the time 5-19 has been assigned the value 361.559998.
+Price 31 for the time 5-20 has been assigned the value 305.489990.
+Price 32 for the time 5-21 has been assigned the value 247.179993.
+Price 33 for the time 5-22 has been assigned the value 214.520004.
+Price 34 for the time 5-23 has been assigned the value 101.260002.
+The following selection proportion has been chosen: 0.499677
+Target price for activation: 277.670013
+Price 0 is INACTIVE.
+Price 1 is INACTIVE.
+Price 2 is INACTIVE.
+Price 3 is INACTIVE.
+Price 4 is INACTIVE.
+Price 5 is INACTIVE.
+Price 6 is INACTIVE.
+Price 7 is INACTIVE.
+Price 8 is INACTIVE.
+Price 9 is INACTIVE.
+Price 10 is INACTIVE.
+Price 11 is INACTIVE.
+Price 12 is ACTIVE.
+Price 13 is ACTIVE.
+Price 14 is ACTIVE.
+Price 15 is ACTIVE.
+Price 16 is ACTIVE.
+Price 17 is ACTIVE.
+Price 18 is INACTIVE.
+Price 19 is INACTIVE.
+Price 20 is ACTIVE.
+Price 21 is ACTIVE.
+Price 22 is ACTIVE.
+Price 23 is ACTIVE.
+Price 24 is ACTIVE.
+Price 25 is ACTIVE.
+Price 26 is ACTIVE.
+Price 27 is ACTIVE.
+Price 28 is ACTIVE.
+Price 29 is INACTIVE.
+Price 30 is INACTIVE.
+Price 31 is INACTIVE.
+Price 32 is ACTIVE.
+Price 33 is ACTIVE.
+Price 34 is ACTIVE.
+Price 35 is ACTIVE.
+DISABLING OUTPUT CIRCUIT
+The current time is 1703074366. (13:12:46 on day 4)
+Raw temperature value: 220
+Temperature in °C: 17.741935
+Current process value: 17.741935
+The following selection proportion has been chosen: 0.494839
+Target price for activation: 277.670013
+Price 0 is INACTIVE.
+Price 1 is INACTIVE.
+Price 2 is INACTIVE.
+Price 3 is INACTIVE.
+Price 4 is INACTIVE.
+Price 5 is INACTIVE.
+Price 6 is INACTIVE.
+Price 7 is INACTIVE.
+Price 8 is INACTIVE.
+Price 9 is INACTIVE.
+Price 10 is INACTIVE.
+Price 11 is INACTIVE.
+Price 12 is ACTIVE.
+Price 13 is ACTIVE.
+Price 14 is ACTIVE.
+Price 15 is ACTIVE.
+Price 16 is ACTIVE.
+Price 17 is ACTIVE.
+Price 18 is INACTIVE.
+Price 19 is INACTIVE.
+Price 20 is ACTIVE.
+Price 21 is ACTIVE.
+Price 22 is ACTIVE.
+Price 23 is ACTIVE.
+Price 24 is ACTIVE.
+Price 25 is ACTIVE.
+Price 26 is ACTIVE.
+Price 27 is ACTIVE.
+Price 28 is ACTIVE.
+Price 29 is INACTIVE.
+Price 30 is INACTIVE.
+Price 31 is INACTIVE.
+Price 32 is ACTIVE.
+Price 33 is ACTIVE.
+Price 34 is ACTIVE.
+Price 35 is ACTIVE.
+DISABLING OUTPUT CIRCUIT
+The current time is 1703074486. (13:14:46 on day 4)
+Raw temperature value: 222
+Temperature in °C: 17.903226
+Current process value: 17.903226
+The following selection proportion has been chosen: 0.498065
+Target price for activation: 277.670013
+Price 0 is INACTIVE.
+Price 1 is INACTIVE.
+Price 2 is INACTIVE.
+Price 3 is INACTIVE.
+Price 4 is INACTIVE.
+Price 5 is INACTIVE.
+Price 6 is INACTIVE.
+Price 7 is INACTIVE.
+Price 8 is INACTIVE.
+Price 9 is INACTIVE.
+Price 10 is INACTIVE.
+Price 11 is INACTIVE.
+Price 12 is ACTIVE.
+Price 13 is ACTIVE.
+Price 14 is ACTIVE.
+Price 15 is ACTIVE.
+Price 16 is ACTIVE.
+Price 17 is ACTIVE.
+Price 18 is INACTIVE.
+Price 19 is INACTIVE.
+Price 20 is ACTIVE.
+Price 21 is ACTIVE.
+Price 22 is ACTIVE.
+Price 23 is ACTIVE.
+Price 24 is ACTIVE.
+Price 25 is ACTIVE.
+Price 26 is ACTIVE.
+Price 27 is ACTIVE.
+Price 28 is ACTIVE.
+Price 29 is INACTIVE.
+Price 30 is INACTIVE.
+Price 31 is INACTIVE.
+Price 32 is ACTIVE.
+Price 33 is ACTIVE.
+Price 34 is ACTIVE.
+Price 35 is ACTIVE.
+DISABLING OUTPUT CIRCUIT
+The current time is 1703074606. (13:16:46 on day 4)
+Raw temperature value: 225
+Temperature in °C: 18.145161
+Current process value: 18.145161
+The following selection proportion has been chosen: 0.502903
+Target price for activation: 277.670013
+Price 0 is INACTIVE.
+Price 1 is INACTIVE.
+Price 2 is INACTIVE.
+Price 3 is INACTIVE.
+Price 4 is INACTIVE.
+Price 5 is INACTIVE.
+Price 6 is INACTIVE.
+Price 7 is INACTIVE.
+Price 8 is INACTIVE.
+Price 9 is INACTIVE.
+Price 10 is INACTIVE.
+Price 11 is INACTIVE.
+Price 12 is ACTIVE.
+Price 13 is ACTIVE.
+Price 14 is ACTIVE.
+Price 15 is ACTIVE.
+Price 16 is ACTIVE.
+Price 17 is ACTIVE.
+Price 18 is INACTIVE.
+Price 19 is INACTIVE.
+Price 20 is ACTIVE.
+Price 21 is ACTIVE.
+Price 22 is ACTIVE.
+Price 23 is ACTIVE.
+Price 24 is ACTIVE.
+Price 25 is ACTIVE.
+Price 26 is ACTIVE.
+Price 27 is ACTIVE.
+Price 28 is ACTIVE.
+Price 29 is INACTIVE.
+Price 30 is INACTIVE.
+Price 31 is INACTIVE.
+Price 32 is ACTIVE.
+Price 33 is ACTIVE.
+Price 34 is ACTIVE.
+Price 35 is ACTIVE.
+DISABLING OUTPUT CIRCUIT
+The current time is 1703074726. (13:18:46 on day 4)
+Raw temperature value: 223
+Temperature in °C: 17.983871
+Current process value: 17.983871
+The following selection proportion has been chosen: 0.499677
+Target price for activation: 277.670013
+Price 0 is INACTIVE.
+Price 1 is INACTIVE.
+Price 2 is INACTIVE.
+Price 3 is INACTIVE.
+Price 4 is INACTIVE.
+Price 5 is INACTIVE.
+Price 6 is INACTIVE.
+Price 7 is INACTIVE.
+Price 8 is INACTIVE.
+Price 9 is INACTIVE.
+Price 10 is INACTIVE.
+Price 11 is INACTIVE.
+Price 12 is ACTIVE.
+Price 13 is ACTIVE.
+Price 14 is ACTIVE.
+Price 15 is ACTIVE.
+Price 16 is ACTIVE.
+Price 17 is ACTIVE.
+Price 18 is INACTIVE.
+Price 19 is INACTIVE.
+Price 20 is ACTIVE.
+Price 21 is ACTIVE.
+Price 22 is ACTIVE.
+Price 23 is ACTIVE.
+Price 24 is ACTIVE.
+Price 25 is ACTIVE.
+Price 26 is ACTIVE.
+Price 27 is ACTIVE.
+Price 28 is ACTIVE.
+Price 29 is INACTIVE.
+Price 30 is INACTIVE.
+Price 31 is INACTIVE.
+Price 32 is ACTIVE.
+Price 33 is ACTIVE.
+Price 34 is ACTIVE.
+Price 35 is ACTIVE.
+DISABLING OUTPUT CIRCUIT
